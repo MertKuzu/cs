@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#\dama\dama\bin\Debug\net6.0-windows\dama.exe
+C:\Users\User\Desktop\c#\dama\dama\bin\Debug\net6.0-windows\dama.deps.json
+C:\Users\User\Desktop\c#\dama\dama\bin\Debug\net6.0-windows\dama.runtimeconfig.json
+C:\Users\User\Desktop\c#\dama\dama\bin\Debug\net6.0-windows\dama.dll
+C:\Users\User\Desktop\c#\dama\dama\bin\Debug\net6.0-windows\dama.pdb
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.Form1.resources
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.dll
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\refint\dama.dll
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.pdb
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\dama.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\dama\dama\obj\Debug\net6.0-windows\ref\dama.dll
