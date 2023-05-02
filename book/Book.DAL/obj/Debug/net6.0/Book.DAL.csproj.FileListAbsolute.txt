@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Book\Book.DAL\bin\Debug\net6.0\Book.DAL.deps.json
+C:\Users\User\Desktop\c#\Book\Book.DAL\bin\Debug\net6.0\Book.DAL.runtimeconfig.json
+C:\Users\User\Desktop\c#\Book\Book.DAL\bin\Debug\net6.0\Book.DAL.dll
+C:\Users\User\Desktop\c#\Book\Book.DAL\bin\Debug\net6.0\Book.DAL.pdb
+C:\Users\User\Desktop\c#\Book\Book.DAL\bin\Debug\net6.0\Book.Entities.dll
+C:\Users\User\Desktop\c#\Book\Book.DAL\bin\Debug\net6.0\Book.Entities.pdb
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.csproj.CopyComplete
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.dll
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\refint\Book.DAL.dll
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.pdb
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\Book.DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\Book\Book.DAL\obj\Debug\net6.0\ref\Book.DAL.dll

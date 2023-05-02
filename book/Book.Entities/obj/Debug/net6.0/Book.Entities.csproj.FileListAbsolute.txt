@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\Book.Entities.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\Book.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\Book.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\Book.Entities.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\Book.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Book\Book.Entities\bin\Debug\net6.0\Book.Entities.deps.json
+C:\Users\User\Desktop\c#\Book\Book.Entities\bin\Debug\net6.0\Book.Entities.dll
+C:\Users\User\Desktop\c#\Book\Book.Entities\bin\Debug\net6.0\Book.Entities.pdb
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\Book.Entities.dll
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\refint\Book.Entities.dll
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\Book.Entities.pdb
+C:\Users\User\Desktop\c#\Book\Book.Entities\obj\Debug\net6.0\ref\Book.Entities.dll

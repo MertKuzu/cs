@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#\Book\Book.Business\bin\Debug\net6.0\Book.Business.deps.json
+C:\Users\User\Desktop\c#\Book\Book.Business\bin\Debug\net6.0\Book.Business.dll
+C:\Users\User\Desktop\c#\Book\Book.Business\bin\Debug\net6.0\Book.Business.pdb
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\Book.Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\Book.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\Book.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\Book.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\Book.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\Book.Business.dll
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\refint\Book.Business.dll
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\Book.Business.pdb
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\ref\Book.Business.dll
+C:\Users\User\Desktop\c#\Book\Book.Business\bin\Debug\net6.0\Book.DAL.dll
+C:\Users\User\Desktop\c#\Book\Book.Business\bin\Debug\net6.0\Book.Entities.dll
+C:\Users\User\Desktop\c#\Book\Book.Business\bin\Debug\net6.0\Book.DAL.pdb
+C:\Users\User\Desktop\c#\Book\Book.Business\bin\Debug\net6.0\Book.Entities.pdb
+C:\Users\User\Desktop\c#\Book\Book.Business\obj\Debug\net6.0\Book.Business.csproj.CopyComplete
