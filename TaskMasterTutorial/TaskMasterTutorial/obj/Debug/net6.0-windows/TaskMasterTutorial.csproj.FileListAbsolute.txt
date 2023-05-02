@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\bin\Debug\net6.0-windows\TaskMasterTutorial.exe
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\bin\Debug\net6.0-windows\TaskMasterTutorial.deps.json
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\bin\Debug\net6.0-windows\TaskMasterTutorial.runtimeconfig.json
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\bin\Debug\net6.0-windows\TaskMasterTutorial.dll
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\bin\Debug\net6.0-windows\TaskMasterTutorial.pdb
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.Form1.resources
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.dll
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\refint\TaskMasterTutorial.dll
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.pdb
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\TaskMasterTutorial.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\TaskMasterTutorial\TaskMasterTutorial\obj\Debug\net6.0-windows\ref\TaskMasterTutorial.dll
