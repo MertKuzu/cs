@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\bin\Debug\öğrenciKayıtUygulaması.exe.config
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\bin\Debug\öğrenciKayıtUygulaması.exe
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\bin\Debug\öğrenciKayıtUygulaması.pdb
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\obj\Debug\öğrenciKayıtUygulaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\obj\Debug\öğrenciKayıtUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\obj\Debug\öğrenciKayıtUygulaması.Form1.resources
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\obj\Debug\öğrenciKayıtUygulaması.Properties.Resources.resources
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\obj\Debug\öğrenciKayıtUygulaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\obj\Debug\öğrenciKayıtUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\obj\Debug\öğrenciKayıtUygulaması.exe
+C:\Users\User\Desktop\c#\öğrenciKayıtUygulaması\öğrenciKayıtUygulaması\obj\Debug\öğrenciKayıtUygulaması.pdb
