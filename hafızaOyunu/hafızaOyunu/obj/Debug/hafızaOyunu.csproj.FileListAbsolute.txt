@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\bin\Debug\hafızaOyunu.exe.config
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\bin\Debug\hafızaOyunu.exe
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\bin\Debug\hafızaOyunu.pdb
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\obj\Debug\hafızaOyunu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\obj\Debug\hafızaOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\obj\Debug\hafızaOyunu.Form1.resources
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\obj\Debug\hafızaOyunu.Properties.Resources.resources
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\obj\Debug\hafızaOyunu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\obj\Debug\hafızaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\obj\Debug\hafızaOyunu.exe
+C:\Users\User\Desktop\c#\hafızaOyunu\hafızaOyunu\obj\Debug\hafızaOyunu.pdb
