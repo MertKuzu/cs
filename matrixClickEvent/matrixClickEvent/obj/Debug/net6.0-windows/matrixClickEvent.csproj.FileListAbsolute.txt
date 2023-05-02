@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\bin\Debug\net6.0-windows\matrixClickEvent.exe
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\bin\Debug\net6.0-windows\matrixClickEvent.deps.json
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\bin\Debug\net6.0-windows\matrixClickEvent.runtimeconfig.json
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\bin\Debug\net6.0-windows\matrixClickEvent.dll
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\bin\Debug\net6.0-windows\matrixClickEvent.pdb
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.Form1.resources
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.dll
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\refint\matrixClickEvent.dll
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.pdb
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\matrixClickEvent.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\matrixClickEvent\matrixClickEvent\obj\Debug\net6.0-windows\ref\matrixClickEvent.dll
