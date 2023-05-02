@@ -1,1 +1,1 @@
-# cs
+# some learning projects
