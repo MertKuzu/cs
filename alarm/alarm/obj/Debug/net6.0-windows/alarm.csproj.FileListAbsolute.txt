@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#\alarm\alarm\bin\Debug\net6.0-windows\alarm.exe
+C:\Users\User\Desktop\c#\alarm\alarm\bin\Debug\net6.0-windows\alarm.deps.json
+C:\Users\User\Desktop\c#\alarm\alarm\bin\Debug\net6.0-windows\alarm.runtimeconfig.json
+C:\Users\User\Desktop\c#\alarm\alarm\bin\Debug\net6.0-windows\alarm.dll
+C:\Users\User\Desktop\c#\alarm\alarm\bin\Debug\net6.0-windows\alarm.pdb
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.form1.resources
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.dll
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\refint\alarm.dll
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.pdb
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\alarm.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\alarm\alarm\obj\Debug\net6.0-windows\ref\alarm.dll
